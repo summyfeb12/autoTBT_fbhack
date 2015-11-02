@@ -1,0 +1,39 @@
+@import url(http://fonts.googleapis.com/css?family=ABeeZee);
+body {
+	text-align: center;
+	font-family: "ABeeZee", Arial, sans;
+	background: #3b5998;
+	color: white;
+}
+
+img {
+	margin: 2em;
+	width: 200px;
+	height: auto;
+}
+
+h1 {
+	font-size: 3em;
+	margin: 0em auto;
+}
+
+p {
+	width: 300px;
+	margin: 0.5em auto;
+}
+
+hr {
+	margin: 1em auto;
+	width: 200px;
+}
+
+
+button{
+	background: #3b5998;
+	margin: 3px;
+	border: 1px solid white;
+	color: white;
+	font-size: 1em;
+	border-radius: 9px;
+}
+
